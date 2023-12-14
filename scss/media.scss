@@ -88,10 +88,16 @@
       font-size: 16px;
     }
     .sign_up {
-      padding-top: 150px;
+      margin-top: 229px;
       position: relative;
+      .icon_holder {
+        height: 59px;
+        max-width: 59px;
+        padding: 0;
+      }
       span {
         font-size: 16px;
+        height: 59px;
       }
     }
   }
@@ -100,6 +106,9 @@
   }
   .section_02 {
     background-repeat: no-repeat;
+    background-size: 200%;
+    background-position: center -50px;
+    padding-top: 484px;
   }
   .section_03 h2 {
     font-size: 24px;

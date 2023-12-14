@@ -79,17 +79,26 @@
     font-size: 16px;
   }
   .section_01 .sign_up {
-    padding-top: 150px;
+    margin-top: 229px;
     position: relative;
+  }
+  .section_01 .sign_up .icon_holder {
+    height: 59px;
+    max-width: 59px;
+    padding: 0;
   }
   .section_01 .sign_up span {
     font-size: 16px;
+    height: 59px;
   }
   .section_02 .cards_box .card_cust {
     max-width: 90% !important;
   }
   .section_02 {
     background-repeat: no-repeat;
+    background-size: 200%;
+    background-position: center -50px;
+    padding-top: 484px;
   }
   .section_03 h2 {
     font-size: 24px;
